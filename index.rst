@@ -59,4 +59,5 @@ typo3_forum
 	Introduction/Index
 	Configuration/Index
 	UsersManual/Index
+	Developers/Index
 	KnownProblems/Index
